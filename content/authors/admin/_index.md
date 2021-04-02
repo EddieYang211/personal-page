@@ -50,7 +50,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
+<br/><br/>
 Welcome! I am a third-year PhD student in the Department of Political Science at UC San Diego. I study the politics of Artificial Intelligence and develop tools for causal inference with high dimensional data.
 
 My dissertation focuses on how authoritarian politics limits the usefulness of AI for authoritarian control, with a focus on China.  Motivated by my substantive work, I also develop tools to adapt machine learning methods for social sciences.
