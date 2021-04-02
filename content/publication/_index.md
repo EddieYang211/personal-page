@@ -1,9 +1,9 @@
 +++
-widget: blank
-headless: true
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+widget = "blank"
+date = 2021-04-01T00:00:00
+
+# Order that this section will appear in.
+weight = 2
 +++
 
 ## Publications
