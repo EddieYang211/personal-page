@@ -56,4 +56,4 @@ Welcome! I am a third-year PhD student in the Department of Political Science at
 Prior to UC San Diego, I received my MA from the University of Chicago and BA from UCLA.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_public.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_public.pdf" "newtab" >}}CV{{< /staticref >}}.
