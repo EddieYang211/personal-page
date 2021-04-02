@@ -243,7 +243,7 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.research]]
+[[menu.main]]
   name = "Research"
   url = "publication/"
   weight = 2
