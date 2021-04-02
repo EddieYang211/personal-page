@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/EddieYang_
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=dWD3IkAAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
@@ -51,9 +51,9 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! I am a third-year PhD student in the Department of Political Science at UC San Diego. I study the politics of Artificial Intelligence (AI) and develop tools for causal inference with high dimensional data.
+Welcome! I am a third-year PhD student in the Department of Political Science at UC San Diego. I study the politics of Artificial Intelligence and develop tools for causal inference with high dimensional data.
 
 Prior to UC San Diego, I received my MA from the University of Chicago and BA from UCLA.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_public.pdf" "newtab" >}}CV{{< /staticref >}}.
