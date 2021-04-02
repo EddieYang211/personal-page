@@ -7,11 +7,17 @@ date = 2021-04-01T00:00:00
 weight = 2
 +++
 
-<center><h1> <span style="color:grey"> Publications </span> </h1></center>
+<br/><br/>
+<br/>
 
-[1] Yang, E., & Roberts, M. E. (2021, March). Censorship of Online Encyclopedias: Implications for NLP Models. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 537-548).
+<center><h2> <span style="color:grey"> Publications </span> </h2></center>
 
-## Working Papers
+[1] Yang, E., & Roberts, M. E. (2021, March). [Censorship of Online Encyclopedias: Implications for NLP Models.](doi.org/10.1145/3442188.3445916) In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.
+
+<br/>
+<center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 
 
-## Work in Progress
+<br/>
+<center><h2> <span style="color:grey"> Work in Progress </span> </h2></center>
+
