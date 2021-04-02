@@ -6,23 +6,23 @@ title: Eddie Yang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of California, San Diego
+  url: https://polisci.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: 
+<!---
 # Interests to show in About widget
 #interests:[]
 
 # Education to show in About widget
 #education:
 #  courses:
-<!---
+
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
