@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = ""
 date = "2021-04-01T00:00:00Z"  # Add today's date.
 type = "widget_page"  
 math = false
