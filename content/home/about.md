@@ -7,32 +7,6 @@ date = 2021-04-01T00:00:00
 # Order that this section will appear in.
 weight = 5
 
-<!---
-# List your academic interests.
-[interests]
-  interests = [
-    "Bayesian Inference",
-    "Computational Statistics",
-    "Monte Carlo methods",
-    "Machine Learning"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Statistics and Operational Research"
-  institution = "Lancaster University"
-  year = 2014
-
-[[education.courses]]
-  course = "MRes in Statistics and Operational Research"
-  institution = "Lancaster University"
-  year = 2011
-
-[[education.courses]]
-  course = "BSc in Mathematics"
-  institution = "University of Manchester"
-  year = 2006
- --->
 +++
 
 <br/><br/>
