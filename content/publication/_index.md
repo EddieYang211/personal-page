@@ -1,19 +1,16 @@
 +++
-title = ""
-date = "2021-04-01T00:00:00Z"  # Add today's date.
-type = "widget_page"  
-math = false
-highlight = false
-
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-list_format = 2
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+widget: blank
+headless: true
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 +++
+
+## Publications
+
+[1] Yang, E., & Roberts, M. E. (2021, March). Censorship of Online Encyclopedias: Implications for NLP Models. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 537-548).
+
+## Working Papers
+
+
+## Work in Progress
