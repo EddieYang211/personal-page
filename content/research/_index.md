@@ -12,11 +12,14 @@ weight = 2
 
 <center><h2> <span style="color:grey"> Publications </span> </h2></center>
 
-[1] Yang, E., & Roberts, M. E. (2021, March). [Censorship of Online Encyclopedias: Implications for NLP Models.](doi.org/10.1145/3442188.3445916) In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.
+[1]  “Censorship of Online Encyclopedias: Implications for NLP Models.” In ACM Conference on Fairness, Accountability, and Transparency (2021) (With Margaret E. Roberts). Copy [here](https://doi.org/10.1145/3442188.3445916)
+
+&nbsp;&nbsp; * Best Student Paper Award
 
 <br/>
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 
+[2] Hierarchically Regularized Entropy Balancing, with Yiqing Xu
 
 <br/>
 <center><h2> <span style="color:grey"> Work in Progress </span> </h2></center>
