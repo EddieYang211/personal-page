@@ -27,12 +27,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EddieYang_
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=dWD3IkAAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/EddieYang211
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=dWD3IkAAAAAJ&hl=en&authuser=1
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
