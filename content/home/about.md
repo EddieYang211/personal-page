@@ -1,21 +1,45 @@
----
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
++++
+# About/Biography widget.
+widget = "about"
+active = true
+date = 2021-04-01T00:00:00
 
-# Activate this widget? true/false
-active: true
+# Order that this section will appear in.
+weight = 5
 
-# This file represents a page section.
-headless: true
+<!---
+# List your academic interests.
+[interests]
+  interests = [
+    "Bayesian Inference",
+    "Computational Statistics",
+    "Monte Carlo methods",
+    "Machine Learning"
+  ]
 
-# Order that this section appears on the page.
-weight: 20
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Statistics and Operational Research"
+  institution = "Lancaster University"
+  year = 2014
 
-title: ' '
+[[education.courses]]
+  course = "MRes in Statistics and Operational Research"
+  institution = "Lancaster University"
+  year = 2011
 
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
----
+[[education.courses]]
+  course = "BSc in Mathematics"
+  institution = "University of Manchester"
+  year = 2006
+ --->
++++
+
+<br/><br/>
+Welcome! I am a third-year PhD student in the Department of Political Science at UC San Diego. I study the politics of Artificial Intelligence and develop tools for causal inference with high dimensional data.
+
+My dissertation focuses on how authoritarian politics limits the usefulness of AI for authoritarian control, with a focus on China.  Motivated by my substantive work, I also develop tools to adapt machine learning methods for social sciences.
+
+Prior to UC San Diego, I received my MA from the University of Chicago and BA from UCLA.
+
+
