@@ -15,8 +15,7 @@ weight = 2
 [1] [Censorship of Online Encyclopedias: Implications for NLP Models](https://doi.org/10.1145/3442188.3445916). In <em>ACM Conference on Fairness, Accountability, and Transparency</em> (2021) (With Margaret E. Roberts).
 <ul>
 <li> <em>Best Student Paper Award</em> </li>
-</ul>
-
+</ul><br/>
 
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 
