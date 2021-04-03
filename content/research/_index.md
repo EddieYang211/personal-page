@@ -26,4 +26,4 @@ weight = 2
 
 [1] Repressive Institutions and the Politics of Artificial Intelligence. *Dissertation*
 
-[2] Public Opinions on the Use of AI in China and the U.S., (with Han Liu, Laurence Liu, Jinhua Cheng, and Taisu Zhang).
+[2] Moral Hazard and AI.
