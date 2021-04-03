@@ -16,8 +16,24 @@ My dissertation focuses on how authoritarian politics limits the usefulness of A
 
 Prior to UC San Diego, I received my MA from the University of Chicago and BA from UCLA.
 
-<div class="footer">
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-</div>
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      {{ with .Site.Copyright }}{{ . | markdownify}} &middot; {{ end }}
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
