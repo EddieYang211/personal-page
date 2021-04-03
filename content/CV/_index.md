@@ -10,4 +10,4 @@ weight = 2
 <br/><br/>
 <br/>
 
-A copy of my CV can be downloaded [here](https://www.dropbox.com/s/11mqc0axvnxdc09/cv_Eddie_Yang.pdf?dl=0)
+A copy of my CV can be downloaded [here](https://www.dropbox.com/s/syducr2svc21p1z/Eddie_Yang_CV.pdf?dl=0)
