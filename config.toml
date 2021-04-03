@@ -215,7 +215,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Software"
-  url = "#projects"
+  url = "software/"
   weight = 3
 
 [[menu.main]]
