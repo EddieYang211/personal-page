@@ -12,17 +12,20 @@ weight = 2
 
 <center><h2> <span style="color:grey"> Publications </span> </h2></center>
 
-[1] &nbsp;&nbsp; “Censorship of Online Encyclopedias: Implications for NLP Models.” In <em>ACM Conference on Fairness, Accountability, and Transparency</em> (2021) (With Margaret E. Roberts). [[link](https://doi.org/10.1145/3442188.3445916)]
+[1] &nbsp;&nbsp; [Censorship of Online Encyclopedias: Implications for NLP Models](https://doi.org/10.1145/3442188.3445916). In <em>ACM Conference on Fairness, Accountability, and Transparency</em> (2021) (With Margaret E. Roberts).
 <ul>
-<li>Best Student Paper Award</li>
+<li> <em>Best Student Paper Award</em> </li>
 </ul>
 
 
 <br/>
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 
-[2] &nbsp;&nbsp; "Hierarchically Regularized Entropy Balancing", (with Yiqing Xu) [[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), [Software](https://github.com/xuyiqing/hbal)]
+[1] &nbsp;&nbsp; [Hierarchically Regularized Entropy Balancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620). (with Yiqing Xu) [[Software](https://github.com/xuyiqing/hbal)]
 
 <br/>
 <center><h2> <span style="color:grey"> Work in Progress </span> </h2></center>
 
+[1] &nbsp;&nbsp; Repressive Institutions and the Politics of Artificial Intelligence. <em>Dissertation</em>
+
+[2] &nbsp;&nbsp; Public Opinions on the Use of AI in China and the U.S., (with Han Liu, Laurence Liu, Jinhua Cheng, and Taisu Zhang)
