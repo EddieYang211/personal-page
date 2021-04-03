@@ -18,14 +18,13 @@ weight = 2
 </ul>
 
 
-<br/>
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 
-[1] [Hierarchically Regularized Entropy Balancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620). (with Yiqing Xu) [[Software](https://github.com/xuyiqing/hbal)]
+[1] [Hierarchically Regularized Entropy Balancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), (with Yiqing Xu). [[Software](https://github.com/xuyiqing/hbal)]
 
 <br/>
 <center><h2> <span style="color:grey"> Work in Progress </span> </h2></center>
 
-[1] Repressive Institutions and the Politics of Artificial Intelligence. <em>Dissertation</em>
+[1] Repressive Institutions and the Politics of Artificial Intelligence. *Dissertation*
 
-[2] Public Opinions on the Use of AI in China and the U.S., (with Han Liu, Laurence Liu, Jinhua Cheng, and Taisu Zhang)
+[2] Public Opinions on the Use of AI in China and the U.S., (with Han Liu, Laurence Liu, Jinhua Cheng, and Taisu Zhang).
