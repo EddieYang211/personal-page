@@ -10,4 +10,4 @@ weight = 2
 <br/><br/>
 <br/>
 
-<center><h3> <span style="color:grey"> A copt of my CV can be downloaded [here]() </span> </h3></center>
+A copt of my CV can be downloaded [here](https://www.dropbox.com/s/11mqc0axvnxdc09/cv_Eddie_Yang.pdf?dl=0)
