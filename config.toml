@@ -218,6 +218,11 @@ enableGitInfo = false
   url = "#projects"
   weight = 3
 
+[[menu.main]]
+  name = "CV"
+  url = "CV/"
+  weight = 4
+
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
