@@ -24,4 +24,4 @@ An R package that implements hierarchically regularized entropy balancing propos
 
 [3] <span style="color:red"> ebal-python</span>: Entropy Balancing for Binary and Continuous Treatment. [[GitHub](https://github.com/EddieYang211/ebal-python)]
 
-Python implementation of entropy balancing for binary (Hainmueller, [2012](https://web.stanford.edu/~jhain/Paper/PA2012.pdf)) and continuous treatment (Tübbicke, [2020](https://arxiv.org/abs/2001.06281) and Vegetabile et al., [2021](https://arxiv.org/pdf/2003.02938.pdf)). The method reweights the sample to remove correlations between the treatment and the covaraites.
+Python implementation of entropy balancing for binary (Hainmueller, [2012](https://web.stanford.edu/~jhain/Paper/PA2012.pdf)) and continuous treatment (Tübbicke, [2020](https://arxiv.org/abs/2001.06281); Vegetabile et al., [2021](https://arxiv.org/pdf/2003.02938.pdf)). The method reweights the sample to remove correlations between the treatment and the covaraites.
