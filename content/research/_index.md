@@ -12,19 +12,16 @@ weight = 2
 <br/>
 
 <center><h2> <span style="color:grey"> Publications </span> </h2></center>
-<span style="line-height: 0.7;">
-[1] Hierarchically Regularized Entropy Balancing, 
+
+[1] **Hierarchically Regularized Entropy Balancing **
   
-with Yiqing Xu. <em> Political Analysis</em>, Conditionally Accepted.
+with Yiqing Xu. <em> Political Analysis</em>, Conditionally Accepted. [Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), [Software](https://github.com/xuyiqing/hbal)
 
-[Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), [Software](https://github.com/xuyiqing/hbal)
+<br/>
 
-</span>
+[2] **Censorship of Online Encyclopedias: Implications for NLP Models**
 
-
-[2] [Censorship of Online Encyclopedias: Implications for NLP Models](https://doi.org/10.1145/3442188.3445916).
-
-With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Transparency</em>, 2021.
+With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Transparency</em>, 2021. [Pre-Print](https://doi.org/10.1145/3442188.3445916)
 <ul>
   <li> <em>Best Student Paper Award</em> </li>
 </ul><br/>
