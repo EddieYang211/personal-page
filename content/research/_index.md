@@ -7,9 +7,6 @@ date = 2021-04-01T00:00:00
 weight = 2
 +++
 
-ul{
-  margin: 10px 10px;
-}
 
 <br/><br/>
 <br/>
@@ -17,11 +14,12 @@ ul{
 <center><h2> <span style="color:grey"> Publications </span> </h2></center>
 
 [1] [Hierarchically Regularized Entropy Balancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), <em> Political Analysis</em> (Conditionally Accepted) (with Yiqing Xu). [[Software](https://github.com/xuyiqing/hbal)]
+
 <br/>
+
 [2] [Censorship of Online Encyclopedias: Implications for NLP Models](https://doi.org/10.1145/3442188.3445916). In <em>ACM Conference on Fairness, Accountability, and Transparency</em> (2021) (With Margaret E. Roberts).
-<ul>
-<li> <em>Best Student Paper Award</em> </li>
-</ul><br/>
+* <em>Best Student Paper Award</em>
+<br/>
 
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 [1] The Impact of U.S.-China Tensions on U.S. Science (with Ruixue Jia, Margaret E. Roberts, Ye Wang).
