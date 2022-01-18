@@ -13,7 +13,7 @@ weight = 2
 
 <center><h2> <span style="color:grey"> Publications </span> </h2></center>
 
-[1] **Hierarchically Regularized Entropy Balancing **
+[1] **Hierarchically Regularized Entropy Balancing**
   
 with Yiqing Xu. <em> Political Analysis</em>, Conditionally Accepted. [Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), [Software](https://github.com/xuyiqing/hbal)
 
