@@ -13,13 +13,13 @@ weight = 2
 
 <center><h2> <span style="color:grey"> Publications </span> </h2></center>
 
-[1] **Hierarchically Regularized Entropy Balancing**
+1. **Hierarchically Regularized Entropy Balancing**
   
 with Yiqing Xu. <em> Political Analysis</em>, Conditionally Accepted. [Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), [Software](https://github.com/xuyiqing/hbal)
 
 <br/>
 
-[2] **Censorship of Online Encyclopedias: Implications for NLP Models**
+2. **Censorship of Online Encyclopedias: Implications for NLP Models**
 
 With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Transparency</em>, 2021. [Pre-Print](https://doi.org/10.1145/3442188.3445916)
 <ul>
@@ -27,11 +27,11 @@ With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Tr
 </ul><br/>
 
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
-[1] The Impact of U.S.-China Tensions on U.S. Science (with Ruixue Jia, Margaret E. Roberts, Ye Wang).
+1. The Impact of U.S.-China Tensions on U.S. Science (with Ruixue Jia, Margaret E. Roberts, Ye Wang).
 
 <br/>
 <center><h2> <span style="color:grey"> Work in Progress </span> </h2></center>
 
-[1] Repressive Institutions and the Politics of Artificial Intelligence. *Dissertation*
+1. Repressive Institutions and the Politics of Artificial Intelligence. *Dissertation*
 
-[2] Moral Hazard and AI.
+2. Moral Hazard and AI.
