@@ -1016,7 +1016,7 @@ footer a#back_to_top i {
 .btn-light:hover,
 .btn-light:active,
 .btn-light.active {
-  background: rgba(0,0,0,0.4) !important;
+  background: rgba(0,0,0,0.2) !important;
 }
 
 /*************************************************
