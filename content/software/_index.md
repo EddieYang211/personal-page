@@ -11,7 +11,7 @@ weight = 3
 
 [1] <span style="color:red"> powerLATE</span>: Generalized Power Analysis for LATE, (With Kirk Bansak). [CRAN](https://cran.r-project.org/web/packages/powerLATE/index.html), [GitHub](https://github.com/kbansak/powerLATE)
 
-An R package that implements of the generalized power analysis for the local average treatment effect (LATE), proposed by Bansak <a href="https://doi:10.1214/19-STS732" style="color: black">(2020)</a>. The method uses standardized effect sizes to place a conservative bound on the power under minimal assumptions. Package allows users to recover power, sample size requirements, or minimum detectable effect sizes. Package also allows users to work with absolute effects rather than effect sizes, to specify an additional assumption to narrow the bounds, and to incorporate covariate adjustment.
+An R package that implements of the generalized power analysis for the local average treatment effect (LATE), proposed by Bansak <a href="https://arxiv.org/abs/1610.08580" style="color: black">(2020)</a>. The method uses standardized effect sizes to place a conservative bound on the power under minimal assumptions. Package allows users to recover power, sample size requirements, or minimum detectable effect sizes. Package also allows users to work with absolute effects rather than effect sizes, to specify an additional assumption to narrow the bounds, and to incorporate covariate adjustment.
 
 <br/>
 
