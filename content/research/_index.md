@@ -12,12 +12,15 @@ weight = 2
 <br/>
 
 <center><h2> <span style="color:grey"> Publications </span> </h2></center>
-
+<span style="line-height: 1;">
 [1] Hierarchically Regularized Entropy Balancing, 
-with Yiqing Xu. <em> Political Analysis</em>, Conditionally Accepted.
+  
+<p style="margin-left:4%">with Yiqing Xu. <em> Political Analysis</em>, Conditionally Accepted. </p>
 
-<button type="button" style="background-color:transparent; border-color:blue">[Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620)</button>
-<button type="button" style="background-color:transparent; border-color:blue">[Software](https://github.com/xuyiqing/hbal)</button>
+[Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807620), [Software](https://github.com/xuyiqing/hbal)
+
+</span>
+
 
 [2] [Censorship of Online Encyclopedias: Implications for NLP Models](https://doi.org/10.1145/3442188.3445916).
 
