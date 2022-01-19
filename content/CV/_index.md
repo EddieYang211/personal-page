@@ -10,4 +10,4 @@ weight = 2
 <br/><br/>
 <br/>
 
-Download my CV [here](CV/cv_Eddie.pdf)
+Download my CV [here](cv_Eddie.pdf)
