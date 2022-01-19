@@ -210,7 +210,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Research"
-  url = "research/"
+  url = "#research/"
   weight = 2
 
 [[menu.main]]
