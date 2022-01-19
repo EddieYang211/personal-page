@@ -220,7 +220,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "CV/cv_Eddie.pdf"
+  url = "CV/"
   weight = 4
 
 # Languages
