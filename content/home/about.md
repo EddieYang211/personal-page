@@ -9,7 +9,7 @@ weight = 5
 
 +++
 
-<br/><br/>
+<br/>
 Welcome! I am a PhD candidate in the Department of Political Science at UC San Diego. I study the politics of Artificial Intelligence and develop tools for causal inference with high dimensional data.
 
 My dissertation focuses on how authoritarian politics limits the usefulness of AI for authoritarian control, with a focus on China. I use audit experiments on algorithms, large collections of data, and in-depth fieldwork to investigate how repressive institutions cripple AI's ability to automate control.
