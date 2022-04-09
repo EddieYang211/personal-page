@@ -14,7 +14,7 @@ Welcome! I am a PhD candidate in the Department of Political Science at UC San D
 
 My dissertation focuses on how authoritarian politics limits the usefulness of AI for authoritarian control, with a focus on China. I use audit experiments on algorithms, large collections of data, and in-depth fieldwork to investigate how repressive institutions cripple AI's ability to automate control.
 
-Prior to UC San Diego, I received my MA from the University of Chicago and BA from UCLA.
+Prior to UC San Diego, I received my M.A. from the University of Chicago and B.A. from UCLA.
 
 In Summer 2022, I will be a research intern at Microsoft Research. For the 2022-2023 AY, I will be a CDDRL and HAI Predoctoral Fellow at Stanford University.
 
