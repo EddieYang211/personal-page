@@ -15,7 +15,7 @@ weight = 2
 
 1\. Hierarchically Regularized Entropy Balancing
 
-<span style="font-size:4em;"> with Yiqing Xu. <em> Political Analysis</em>, Forthcoming. [pdf](hbal.pdf), [software](https://github.com/xuyiqing/hbal), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QI2WP9)</span> 
+<span style="font-size:1em;"> with Yiqing Xu. <em> Political Analysis</em>, Forthcoming. [pdf](hbal.pdf), [software](https://github.com/xuyiqing/hbal), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QI2WP9)</span> 
 
 <br/>
 
