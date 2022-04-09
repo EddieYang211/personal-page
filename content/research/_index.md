@@ -21,14 +21,16 @@ weight = 2
 
 2\. Censorship of Online Encyclopedias: Implications for NLP Models
 
-<span style="font-size:0.9em;"> With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Transparency</em>, 2021. [pdf](censorNLP.pdf), [replication](https://github.com/EddieYang211/TrainingDatasetCensorship)</span> 
+<span style="font-size:0.9em;"> with Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Transparency</em>, 2021. [pdf](censorNLP.pdf), [replication](https://github.com/EddieYang211/TrainingDatasetCensorship)</span> 
 <ul>
   <li> <span style="font-size:0.9em;"> <em>Best Student Paper Award</em></span>  </li>
 </ul><br/>
 
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 
-1\. The Impact of U.S.-China Tensions on U.S. Science (with Ruixue Jia, Margaret E. Roberts, Ye Wang). [draft](ChinaScience.pdf)
+1\. The Impact of U.S.-China Tensions on U.S. Science 
+
+<span style="font-size:0.9em;"> with Ruixue Jia, Margaret E. Roberts, Ye Wang. [draft](ChinaScience.pdf)</span> 
 
 <br/>
 <center><h2> <span style="color:grey"> Work in Progress </span> </h2></center>
