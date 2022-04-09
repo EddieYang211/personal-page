@@ -21,9 +21,9 @@ weight = 2
 
 2\. Censorship of Online Encyclopedias: Implications for NLP Models
 
-With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Transparency</em>, 2021. [pdf](censorNLP.pdf), [replication](https://github.com/EddieYang211/TrainingDatasetCensorship)
+<span style="font-size:0.9em;"> With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Transparency</em>, 2021. [pdf](censorNLP.pdf), [replication](https://github.com/EddieYang211/TrainingDatasetCensorship)</span> 
 <ul>
-  <li> <em>Best Student Paper Award</em> </li>
+  <li> <span style="font-size:0.9em;"> <em>Best Student Paper Award</em></span>  </li>
 </ul><br/>
 
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
