@@ -28,7 +28,7 @@ With Margaret E. Roberts. <em>ACM Conference on Fairness, Accountability, and Tr
 
 <center><h2> <span style="color:grey"> Working Papers </span> </h2></center>
 
-1\. The Impact of U.S.-China Tensions on U.S. Science (with Ruixue Jia, Margaret E. Roberts, Ye Wang). [draft](ChinaSciece.pdf)
+1\. The Impact of U.S.-China Tensions on U.S. Science (with Ruixue Jia, Margaret E. Roberts, Ye Wang). [draft](ChinaScience.pdf)
 
 <br/>
 <center><h2> <span style="color:grey"> Work in Progress </span> </h2></center>
